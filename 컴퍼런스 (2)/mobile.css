@@ -1,0 +1,159 @@
+@media(max-width:768px){
+    
+
+    body{
+        overflow-x: hidden;
+    }
+    
+    
+    /* header */
+    header{
+      height: 50px;
+    }
+    header .logo{
+        width: 10%;
+    }
+    
+
+
+    /* visual */
+
+    .visual b{
+        font-size: 20px;
+    }
+    .visual h1{
+        font-size: 50px;
+    }
+    .visual p{
+        font-size: 20px;
+        margin-top: 10px;
+    }
+    .visual .date h4{
+        font-size: 18px;
+    }
+    .visual .date p{
+        font-size: 20px;
+    }
+
+
+
+
+
+    /* svg */
+    .svg_box{
+      
+    }
+    svg{
+      width: 100%;
+    }
+    .svg_box .v{
+      width: 30%;
+      left: 10px;
+      transform: translateX(-30px) translateY(50px);
+    }
+    .svg_box .one{
+      width: 15%;
+      transform: translatey(150px) translateX(100px);
+    }
+    .svg_box .c{
+        width: 18%;
+        transform: translatey(80px) translateX(70px);
+      }
+      .svg_box .c2{
+        width: 18%;
+        transform: translatey(80px) translateX(7px);
+      }
+
+
+
+      /* section1 */
+      .section1{
+        width: 100%;
+        height: auto;
+      }
+      .section1 .introduce_box{
+        width: 100%;
+      }
+      .section1 .introduce{
+        width: 100%;
+      }
+      .section1 .introduce b{
+        font-size: 30px;
+      }
+      .section1 .introduce p{
+        font-size: 18px;
+        width: 100%;
+        word-break: break-all;
+      }
+
+
+
+      /* section2 */
+      
+    
+
+    .section2{
+        
+    }
+    .section2 .text_area{
+        float: none;
+    }
+    .section2 .section2_inner{
+        height: auto;
+    }
+    .section2 .picture{
+       
+    }
+
+    .section2 .picture ul li{
+        float: none;
+    }
+
+    .section2 .picture li{
+        
+        
+    }
+
+    .section2 .picture .img1{
+        
+    }
+    .section2 .picture .img2{
+       
+    }
+
+
+
+
+
+      /* section3 */
+      .section3_text_box{
+        margin-left: 20px;
+      }
+      .section3 .section_inner h3{
+        font-size: 40px;
+      }
+      .section3 .section_inner p{
+        width: 100%;
+        font-size: 20px;
+      }
+    
+
+      /* section5 */
+
+      .section5{
+
+      }
+
+      .section5 .sec5_inner{
+        margin-left: 10px;
+      }
+
+      /* section7_inner */
+
+      .section7_inner{
+        
+      }
+
+
+
+  }
